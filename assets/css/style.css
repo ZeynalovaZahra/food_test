@@ -6,3 +6,27 @@
     box-sizing: border-box;
     
 }
+.web_header {
+    height: 70px;
+    background-color: #1e1e27;
+    color: #b5aec4;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+header li {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 211px;
+}
+
+header a {
+    display: inline-block;
+    margin-left: 40px;
+    line-height: 40px;
+    font-size: 17px;
+    margin-top: 43px;
+}
+.header-right{
+    
+}
